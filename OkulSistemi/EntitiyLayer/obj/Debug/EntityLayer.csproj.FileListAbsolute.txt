@@ -1,0 +1,6 @@
+C:\Users\dogukan.simsek\source\repos\OkulSistemi\EntitiyLayer\bin\Debug\EntitiyLayer.dll
+C:\Users\dogukan.simsek\source\repos\OkulSistemi\EntitiyLayer\bin\Debug\EntitiyLayer.pdb
+C:\Users\dogukan.simsek\source\repos\OkulSistemi\EntitiyLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\dogukan.simsek\source\repos\OkulSistemi\EntitiyLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\dogukan.simsek\source\repos\OkulSistemi\EntitiyLayer\obj\Debug\EntitiyLayer.dll
+C:\Users\dogukan.simsek\source\repos\OkulSistemi\EntitiyLayer\obj\Debug\EntitiyLayer.pdb

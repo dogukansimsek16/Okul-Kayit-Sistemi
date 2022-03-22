@@ -1,0 +1,11 @@
+C:\Users\dogukan.simsek\source\repos\OkulSistemi\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\dogukan.simsek\source\repos\OkulSistemi\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\dogukan.simsek\source\repos\OkulSistemi\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\dogukan.simsek\source\repos\OkulSistemi\BusinessLogicLayer\bin\Debug\EntitiyLayer.dll
+C:\Users\dogukan.simsek\source\repos\OkulSistemi\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\dogukan.simsek\source\repos\OkulSistemi\BusinessLogicLayer\bin\Debug\EntitiyLayer.pdb
+C:\Users\dogukan.simsek\source\repos\OkulSistemi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\dogukan.simsek\source\repos\OkulSistemi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\dogukan.simsek\source\repos\OkulSistemi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\dogukan.simsek\source\repos\OkulSistemi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\dogukan.simsek\source\repos\OkulSistemi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
